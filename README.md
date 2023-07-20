@@ -1,4 +1,4 @@
-# CollegeRidesApp
+# Berea College Rides App
 iOS and Android app that allows Berea College students to earn $ and/or find rides faster
 
 ## Problem statement: 
@@ -6,6 +6,10 @@ Berea College students struggle to get around without owning a car and public tr
 
 ## Features: 
 
+
 ## Development Team:
 This idea stated in the Google Developers Student Club
+
+## Contributions: 
+
 
